@@ -23,6 +23,11 @@ Libraries used:
           uuid: ^4.3.3,
           connectivity_plus: ^5.0.2,
           http: ^1.1.0.
+		  
+Mock API configuration details:
+		  https://698de6b0b79d1c928ed6f0ed.mockapi.io/api/v1/users,
+		  https://698de6b0b79d1c928ed6f0ed.mockapi.io/api/v1/questionnaires,
+		  
 
 Screenshots:
 	<img width="1080" height="2400" alt="12 02 2026_12 21 35_REC" src="https://github.com/user-attachments/assets/eabf9966-1797-4469-8a17-94000823843b" />
