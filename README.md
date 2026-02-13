@@ -25,8 +25,8 @@ Libraries used:
           http: ^1.1.0.
 
 Screenshots:
+	<img width="1080" height="2400" alt="12 02 2026_12 21 35_REC" src="https://github.com/user-attachments/assets/eabf9966-1797-4469-8a17-94000823843b" />
           <img width="1080" height="2400" alt="screenshot-1770964141993" src="https://github.com/user-attachments/assets/e1c56350-1779-47cb-81da-548295da6667" />
-          <img width="1080" height="2400" alt="12 02 2026_12 21 35_REC" src="https://github.com/user-attachments/assets/eabf9966-1797-4469-8a17-94000823843b" />
           <img width="1080" height="2400" alt="screenshot-1770964316263" src="https://github.com/user-attachments/assets/ba3a1011-cf29-401e-91c4-c35be0be6632" />
           <img width="1080" height="2400" alt="screenshot-1770964301175" src="https://github.com/user-attachments/assets/75dc1569-d0a7-42f9-a417-007631ca2e4b" />
           <img width="1080" height="2400" alt="screenshot-1770964292375" src="https://github.com/user-attachments/assets/d199b08d-fd76-4bce-98b2-7979c135802f" />
