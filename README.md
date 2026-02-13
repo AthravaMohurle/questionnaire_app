@@ -3,7 +3,7 @@ A Flutter-based mobile application for managing and submitting questionnaires wi
 Features:
           User Authentication (Login/Register),
           View Available Questionnaires,
-          Answer Questions with Multiple Choice,
+          Answer Questions,
           Offline Submission Storage,
           View Submission History,
           Profile Management,
