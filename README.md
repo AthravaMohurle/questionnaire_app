@@ -1,33 +1,28 @@
 A Flutter-based mobile application for managing and submitting questionnaires with offline support, user authentication, and submission history tracking.
 
 Features:
-          User Authentication (Login/Register)
-          View Available Questionnaires
-          Answer Questions with Multiple Choice
-          Offline Submission Storage
-          View Submission History
-          Profile Management
-          Location Capture with Submissions
-          Responsive UI Design
+          User Authentication (Login/Register),
+          View Available Questionnaires,
+          Answer Questions with Multiple Choice,
+          Offline Submission Storage,
+          View Submission History,
+          Profile Management,
+          Location Capture with Submissions,
+          Responsive UI Design.
 
 Setup Instructions:
           Flutter Version:-3.27.3
 
 Libraries used:
-          cupertino_icons: ^1.0.8
-          get: ^4.6.6
-          sqflite: ^2.3.0
-          path: ^1.8.3
-          intl: ^0.18.1
-          geolocator: ^10.1.0
-          uuid: ^4.3.3
-          connectivity_plus: ^5.0.2
-          http: ^1.1.0
-
-Android Setup Permissions:
-          <uses-permission android:name="android.permission.INTERNET"/>
-          <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
-          <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+          cupertino_icons: ^1.0.8,
+          get: ^4.6.6,
+          sqflite: ^2.3.0,
+          path: ^1.8.3,
+          intl: ^0.18.1,
+          geolocator: ^10.1.0,
+          uuid: ^4.3.3,
+          connectivity_plus: ^5.0.2,
+          http: ^1.1.0.
 
 Screenshots:
           <img width="1080" height="2400" alt="screenshot-1770964141993" src="https://github.com/user-attachments/assets/e1c56350-1779-47cb-81da-548295da6667" />
